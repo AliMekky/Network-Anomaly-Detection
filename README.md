@@ -12,10 +12,10 @@ Cleaning the data and encoding categorical features.
 # Part 3
 Classification Using K-means.
 
-#Part 4
+# Part 4
 Classification Using Spectral Clustering.
 
-#Part 5
+# Part 5
 Classification Using Aggomerative Clustering.
 
 
